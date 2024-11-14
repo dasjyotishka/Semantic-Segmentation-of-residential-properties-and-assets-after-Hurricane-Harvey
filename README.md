@@ -7,6 +7,8 @@ This project was the outcome of a competition hosted at CentraleSupélec to deve
 
 Details of the competition is available at the following [link](https://granular.notion.site/Hurricane-Harvey-Challenge-DSBA-2022-2023-80de810d1f6c4b729c1ee0419cc66943)
 
+To read about the project in detail, please consult the pdf report attached. The implementation code is provided in a Python notebook.
+
 ## Dataset
 
 The provided Hurricane Harvey dataset contains several hundred drone images of residential neighborhoods in Houston. For each, a dense segmentation mask has been generated for the classes mentioned below. Each mask was further vectorized to provide additional representations for modeling, visualization, and review. 
