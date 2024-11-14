@@ -15,6 +15,6 @@ The datasets were made available at Geoengine in which the competition was hoste
 
 ## Results
 
-A DeepLabv3+ based segmentation model with a ResNet-101 encoder and pretrained on Imagenet images was utilised to solve a challenge involving utilisation
+A DeepLabv3+ based segmentation model with a ResNet-101 encoder and pre-trained on Imagenet images was utilised to solve a challenge involving utilisation
 of deep learning to perform semantic segmentation on residential properties and assets after Hurricane Harvey. It provided a improved dice-score of 76.25% over
-an U-Net model on test dataset on final submission, making it the 4th best model on the leaderboard.
+an U-Net model on test dataset on final submission, making it the 4th best submission on the leaderboard.
